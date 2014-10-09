@@ -1,4 +1,17 @@
 Estatistica
 ===========
 
-A &cap; B
+####Probabilidade Condicional
+
+* É a probabilidade de um evento A dada a ocorrência de um 
+evento B
+
+P(A|B) = P(B &cap; A) / P(B)
+
+
+####Naive Bayes
+  
+
+* http://www.lbd.dcc.ufmg.br/colecoes/erbd/2013/0019.pdf
+* http://www.icmc.usp.br/pessoas/mello/aula05-bayes-slides.pdf
+* http://blog.concretesolutions.com.br/2012/02/naive-bayes-resposta-do-testinho-4/
