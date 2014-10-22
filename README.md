@@ -1,5 +1,8 @@
-Estatistica
+NLP
 ===========
+####NLP
+* https://class.coursera.org/nlp/lecture
+
 
 ####Probabilidade Condicional
 
@@ -17,10 +20,9 @@ P(A|B) = P(B &cap; A) / P(B)
 * http://www.icmc.usp.br/pessoas/mello/aula05-bayes-slides.pdf
 * http://blog.concretesolutions.com.br/2012/02/naive-bayes-resposta-do-testinho-4/
 
-####NLP
 
-* https://class.coursera.org/nlp/lecture
-
+####TF-IDF
+* http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
 
 #####Stemming
 * https://code.google.com/p/ptstemmer/wiki/UsageExamples
