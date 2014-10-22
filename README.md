@@ -23,6 +23,7 @@ P(A|B) = P(B &cap; A) / P(B)
 
 ####TF-IDF
 * http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
+* http://www.ppgia.pucpr.br/~fabricio/ftp/TF-RI-Personalizada/Aula2a-WebMining.pdf
 
 #####Stemming
 * https://code.google.com/p/ptstemmer/wiki/UsageExamples
