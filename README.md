@@ -19,10 +19,10 @@ P(A|B) = P(B &cap; A) / P(B)
 
 ####NLP
 
-*https://class.coursera.org/nlp/lecture
+* https://class.coursera.org/nlp/lecture
 
 
 #####Stemming
-*https://code.google.com/p/ptstemmer/wiki/UsageExamples
-*http://snowball.tartarus.org/algorithms/portuguese/stemmer.html
-*http://www.lume.ufrgs.br/bitstream/handle/10183/23576/000597277.pdf?sequence=1
+* https://code.google.com/p/ptstemmer/wiki/UsageExamples
+* http://snowball.tartarus.org/algorithms/portuguese/stemmer.html
+* http://www.lume.ufrgs.br/bitstream/handle/10183/23576/000597277.pdf?sequence=1
